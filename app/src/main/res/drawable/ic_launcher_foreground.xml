@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- آیکون «قاب من»: قاب طلایی با پاسپارتو و منظره -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- سایه -->
+    <path android:fillColor="#261A4D" android:pathData="M31,36h49v40.5h-49z"/>
+    <!-- قاب بیرونی -->
+    <path android:fillColor="#D9A441" android:pathData="M29,34h50v40h-50z"/>
+    <!-- لبهٔ برجسته -->
+    <path android:fillColor="#F2CF79" android:pathData="M29,34h50v2.2h-47.8v37.8h-2.2z"/>
+    <path android:fillColor="#9E6B1C" android:pathData="M33,38h42v32h-42z"/>
+    <!-- پاسپارتو -->
+    <path android:fillColor="#FBF4E4" android:pathData="M34,39h40v30h-40z"/>
+    <!-- آسمان -->
+    <path android:fillColor="#7CC6EE" android:pathData="M37,42h34v24h-34z"/>
+    <!-- خورشید -->
+    <path android:fillColor="#FFD54F" android:pathData="M64,48m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0"/>
+    <!-- کوه‌ها -->
+    <path android:fillColor="#5DBB8A" android:pathData="M37,66L37,58L45,50L53,58L58,54L71,63L71,66Z"/>
+    <path android:fillColor="#2E8B57" android:pathData="M37,66L37,62L47,56L56,63L62,60L71,66Z"/>
+</vector>

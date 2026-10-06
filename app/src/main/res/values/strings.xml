@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قاب من</string>
+
+    <string name="status_loading">در حال آماده‌سازی…</string>
+    <string name="status_point">دوربین را به سمت قاب عکس بگیرید</string>
+    <string name="status_tracking_lost">گوشی را آرام حرکت دهید…</string>
+    <string name="status_skipped">این عکس جزئیات کافی برای تشخیص ندارد: %1$s</string>
+    <string name="no_targets">عکس داخل برنامه پیدا نشد</string>
+    <string name="mute">بی‌صدا</string>
+    <string name="unmute">صدادار</string>
+    <string name="camera_permission_needed">برای نمایش قاب زنده، دسترسی به دوربین لازم است</string>
+    <string name="arcore_error">ARCore روی این دستگاه در دسترس نیست: %1$s</string>
+    <string name="camera_unavailable">دوربین در دسترس نیست. برنامه را دوباره باز کنید.</string>
+</resources>
